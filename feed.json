@@ -9,5 +9,19 @@
         "name": "Mickael Naulet"
     },
     "items": [
+        {
+            "id": "https://mismi.github.io/publii-test/post-test.html",
+            "url": "https://mismi.github.io/publii-test/post-test.html",
+            "title": "post test",
+            "summary": "post test",
+            "content_html": "post test",
+            "author": {
+                "name": "Mickael Naulet"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-16T10:31:05+02:00",
+            "date_modified": "2019-04-16T10:31:05+02:00"
+        }
     ]
 }
